@@ -47,6 +47,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		71288ECD2B26B99200D6C921 /* 2stWeek */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = 2stWeek;
+			sourceTree = "<group>";
+		};
 		713BA42D2B220DBF009091A8 = {
 			isa = PBXGroup;
 			children = (
@@ -68,6 +75,7 @@
 			children = (
 				713BA44D2B220EA6009091A8 /* App */,
 				713BA4582B2210C8009091A8 /* 1stWeek */,
+				71288ECD2B26B99200D6C921 /* 2stWeek */,
 				713BA43D2B220DBF009091A8 /* ViewController.swift */,
 				713BA43F2B220DBF009091A8 /* Main.storyboard */,
 				713BA4422B220DC0009091A8 /* Assets.xcassets */,
